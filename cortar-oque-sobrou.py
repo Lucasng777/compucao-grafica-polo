@@ -30,3 +30,4 @@ for nome_arquivo in os.listdir(pasta_imagens):
         imagem_cortada.save(caminho_saida)
 
 print("Recorte das bordas concluído.")
+
