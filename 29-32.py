@@ -49,4 +49,4 @@ if todas_imagens:
     print("Imagem final salva como 'todas_metades_29_a_32_vertical.png'")
     print(f"Total de {len(todas_imagens)} imagens combinadas")
 else:
-    print("Nenhuma imagem foi encontrada")
+    print("Nenhuma imagem foi encontrda")
